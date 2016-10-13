@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E37A6401-37CE-0ED7-A856-23D0EF39A798}") = "WhelpWizard", "Assembly-CSharp.csproj", "{04B1DBF5-9F5D-0FC0-80EE-62D88789D7F9}"
+EndProject
+Project("{E37A6401-37CE-0ED7-A856-23D0EF39A798}") = "WhelpWizard", "Assembly-CSharp-Editor.csproj", "{3E3F6E56-4076-08EE-00AB-AA4295E1DDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B1DBF5-9F5D-0FC0-80EE-62D88789D7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B1DBF5-9F5D-0FC0-80EE-62D88789D7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B1DBF5-9F5D-0FC0-80EE-62D88789D7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B1DBF5-9F5D-0FC0-80EE-62D88789D7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3F6E56-4076-08EE-00AB-AA4295E1DDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3F6E56-4076-08EE-00AB-AA4295E1DDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3F6E56-4076-08EE-00AB-AA4295E1DDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3F6E56-4076-08EE-00AB-AA4295E1DDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
